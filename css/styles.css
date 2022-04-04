@@ -72,6 +72,16 @@ a {
     color: var(--logo-color);
 }
 
+
+.logo:hover {
+    color: rgba(0, 0, 0, 0);
+    background-image: url('../images/Logo.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
 .navigation-list {
     display: flex;
     margin-left: 433px;
