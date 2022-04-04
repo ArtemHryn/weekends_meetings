@@ -91,6 +91,7 @@ a {
 .navigation-list-link {
     font-size: 18px;
     line-height: 1.2222;
+    color: var(--main-color);
 }
 
 .header-button {
@@ -102,7 +103,7 @@ a {
 
     font-size: 18px;
     line-height: 1.2222;
-    
+
     color: var(--button_color);
     background-color: var(--container-color);
     border: 1px solid var(--button_color);
